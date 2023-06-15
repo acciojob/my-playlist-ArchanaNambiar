@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+ <style>
+    body {
+      background-color: #cccccc;
+    }
+
+    .player_one {
+      margin-bottom: 10px;
+    }
+
+    .player_two {
+      margin-bottom: 10px;
+    }
+
+    video {
+      width: 100%;
+    }
+  </style>
